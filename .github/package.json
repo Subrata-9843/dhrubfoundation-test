@@ -1,0 +1,15 @@
+{
+  "name": "dhrubfoundation",
+  "version": "1.0.0",
+  "description": "Dhrub Foundation official website",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "echo 'Open src/index.html in browser'",
+    "test": "jest"
+  },
+  "author": "Dhrub Foundation",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
